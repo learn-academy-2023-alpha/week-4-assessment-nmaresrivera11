@@ -29,6 +29,8 @@ const colors2 = [
 
 // b) Create the function that makes the test pass.
 
+// ***** This is what I tried. This what I was thinking when tackling this. But could not figure this one out. ***** 
+
 // --------------------2) Create a function that takes in an object that contains up votes and down votes and returns the end tally.
 
 // a) Create a test with expect statements for each of the variables provided.
