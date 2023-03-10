@@ -10,8 +10,6 @@ num2 = 42
 num3 = 221
 # Expected output: '221 is odd'
 
-
-
 # -------------------2) Create a method that takes in a string and removes all the vowels from the string. Use the test variables provided. 
 # HINT: Check out this resource: https://ruby-doc.org/core-2.6/String.html#method-i-delete
 
